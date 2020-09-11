@@ -1,2 +1,2 @@
 # Zaryab
-A simple Synthesizer written with pyo and pynput
+A simple Synthesizer/Loop kit written with pyo and pynput
